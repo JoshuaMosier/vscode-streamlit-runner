@@ -2,12 +2,13 @@
 
 A Visual Studio Code extension that allows you to run Streamlit apps directly from the context menu. Perfect for data scientists and developers who work with Streamlit frequently.
 
-<div align="center">
-  <p float="left">
-    <img src="./example-window.png" width="20%" />
-    <img src="./example-terminal.png" width="79%" />
-  </p>
-</div>
+<p align="center">
+  <img src="./example-window.png" alt="Context menu showing Run with Streamlit option"/>
+</p>
+
+<p align="center">
+  <img src="./example-terminal.png" alt="Multiple Streamlit instances running in terminal"/>
+</p>
 ## Features
 
 - Right-click any Python file and run it with Streamlit
