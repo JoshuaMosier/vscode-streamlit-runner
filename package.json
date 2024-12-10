@@ -3,7 +3,7 @@
     "displayName": "Streamlit Runner",
     "description": "Run Python files with Streamlit directly from the context menu",
     "version": "0.0.1",
-    "publisher": "your-publisher-name",
+    "publisher": "joshrmosier",
     "engines": {
         "vscode": "^1.93.0"
     },
