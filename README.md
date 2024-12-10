@@ -9,6 +9,7 @@ A Visual Studio Code extension that allows you to run Streamlit apps directly fr
 <p align="center">
   <img src="./example-terminal.png" alt="Multiple Streamlit instances running in terminal"/>
 </p>
+
 ## Features
 
 - Right-click any Python file and run it with Streamlit
